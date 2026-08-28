@@ -125,7 +125,7 @@
   <div id="modal-overlay" class="modal-overlay" aria-hidden="true">
     <div class="modal-content">
       <div class="sticky-header" style="position:relative;display:flex;align-items:center;gap:16px">
-        <img src="https://opnet.org/logo.svg" alt="OP_NET" style="width:40px;height:40px;object-fit:contain;flex-shrink:0;background:white;border-radius:12px;padding:8px">
+        <img src="favicon.png" alt="Aligned" style="width:40px;height:40px;object-fit:contain;flex-shrink:0;background:white;border-radius:12px;padding:8px">
         <div style="flex:1;text-align:left">
           <h2 style="margin:0;text-align:center;font-size:20px;font-weight:600">Connect Wallet</h2>
           <p style="margin:6px 0 0 0;text-align:center;font-size:13px;color:#9ca3af">Choose your preferred wallet</p>
