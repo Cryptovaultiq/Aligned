@@ -51,8 +51,8 @@ body {
 }
 
 .logo {
-  width: 5rem;
-  height: 5rem;
+  width: 6.5rem;
+  height: 6.5rem;
   margin: 1rem auto 0;
   border-radius: 9999px;
   background: radial-gradient(circle at 30% 25%, #1c1c1c, #000 70%);
@@ -63,8 +63,8 @@ body {
 
 .logo-bar {
   display: block;
-  width: 0.85rem;
-  height: 2.6rem;
+  width: 4.85rem;
+  height: 4.6rem;
   border-radius: 2px;
   background: linear-gradient(180deg, #d9fff0, var(--color-primary) 45%, #0e7a4a);
 }
